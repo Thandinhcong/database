@@ -1,9 +1,96 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "projects": [
+    {
+      "name": "Dự án mẫu",
+      "member": "Than",
+      "outher": "datlt",
+      "id": 1
+    },
+    {
+      "name": "Dự án mẫu",
+      "member": "Than",
+      "outher": "datlt",
+      "id": 2
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "profiles": [
+    {
+      "name": "Đinh Công Thản ",
+      "email": "Dinhcongthan2003@gmail.com",
+      "phone": "0523892062",
+      "address": "Hưng hà-Thái Bình",
+      "job": "Front-End Developer",
+      "sex": "Nam",
+      "Education": "FPT polytechnic",
+      "date": "",
+      "img": [
+        "https://res.cloudinary.com/dxzlnojyv/image/upload/v1680256993/ES6/pbwh2ucavoedoax8fmkz.jpg"
+      ],
+      "id": 4
+    }
   ],
-  "profile": { "name": "typicode" }
+  "skills": [
+    {
+      "name": "HTML 5 & CCS3 ",
+      "id": 3
+    },
+    {
+      "name": "Javascript",
+      "id": 4
+    },
+    {
+      "name": "Reactjs",
+      "id": 6
+    },
+    {
+      "name": "Github and PR-driven development",
+      "id": 7
+    },
+    {
+      "name": "My SQL",
+      "id": 8
+    },
+    {
+      "name": "Node js",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "id": 3,
+      "name": "Dự án Mẫu",
+      "links": "",
+      "image": [
+        "https://res.cloudinary.com/dxzlnojyv/image/upload/v1679592310/ES6/z87zqu3nhi9x4q6dvhd5.png"
+      ],
+      "description": "Dự án mẫu được tạo bởi các ngôn ngữ như PHP,My SQL, JavaScript"
+    },
+    {
+      "id": 4,
+      "name": "Xây dựng CV",
+      "links": "",
+      "image": [
+        "https://res.cloudinary.com/dxzlnojyv/image/upload/v1679592322/ES6/atm1uc7xyql8e2tr4u9n.png"
+      ],
+      "description": "Dự án được tạo bởi vanillajs bootstrap"
+    },
+    {
+      "name": "Dự án 1 ",
+      "description": "Dự án mẫu được tạo bởi các ngôn ngữ như PHP,My SQL, JavaScript,Bootstrap",
+      "link": "https://github.com/Thandinhcong/D-n-1",
+      "image": [
+        "https://res.cloudinary.com/dxzlnojyv/image/upload/v1676642691/ES6/yuezcbvykp6bzeda5h9b.jpg"
+      ],
+      "id": 5
+    },
+    {
+      "name": "iPhone 12 Promax",
+      "description": "HAhahahaaa",
+      "link": "",
+      "image": [
+        "https://res.cloudinary.com/dxzlnojyv/image/upload/v1679592322/ES6/atm1uc7xyql8e2tr4u9n.png"
+      ],
+      "id": 6
+    }
+  ]
 }
