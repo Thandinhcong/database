@@ -73,7 +73,7 @@
       "image": [
         "https://res.cloudinary.com/dxzlnojyv/image/upload/v1683624972/ES6/t7njdxkoxryqcao6gi1m.jpg"
       ],
-      "description": "Dự án mẫu được tạo bởi các ngôn ngữ như PHP,My SQL, JavaScript"
+      "description": "Sample project built in languages ​​like PHP,My SQL, JavaScript"
     },
     {
       "id": 4,
@@ -82,11 +82,11 @@
       "image": [
         "https://res.cloudinary.com/dxzlnojyv/image/upload/v1679592322/ES6/atm1uc7xyql8e2tr4u9n.png"
       ],
-      "description": "Dự án đượcsử dụng công nghệ như : vanillajs, bootstrap5, html5,css3,"
+      "description": "The project is built by technology like: vanillajs, bootstrap5, html5,css3"
     },
     {
       "name": "Dự án 1 ",
-      "description": "Dự án mẫu được tạo bởi các ngôn ngữ như PHP,My SQL, JavaScript,Bootstrap",
+      "description": "Sample project built in languages ​​like PHP,My SQL, JavaScript,Bootstrap",
       "link": "https://github.com/Thandinhcong/D-n-1",
       "image": [
         "https://res.cloudinary.com/dxzlnojyv/image/upload/v1683624972/ES6/t7njdxkoxryqcao6gi1m.jpg"
@@ -95,7 +95,7 @@
     },
     {
       "name": "React-TypeScript",
-      "description": "Dự án sử dụng ngôn ngữ lập trình react typescription ,HTML 5, css3,boostrap5,nodejs",
+      "description": "Project built by programming language react typescription ,HTML 5, css3,boostrap5,nodejs",
       "links": "https://github.com/Thandinhcong/Typescript-React",
       "image": [
         "https://res.cloudinary.com/dxzlnojyv/image/upload/v1683625576/ES6/mha4ewznblq3yqn7ch4r.avif"
