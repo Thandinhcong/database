@@ -15,7 +15,6 @@
   ],
   "profiles": [
     {
-      "name": "Đinh Công Thản ",
       "email": "Dinhcongthan2003@gmail.com",
       "phone": "0523892062",
       "address": "Hưng hà-Thái Bình",
@@ -31,33 +30,19 @@
   ],
   "skills": [
     {
-      "name": "HTML 5 & CCS3 ",
+      "name": "HTML5 & CS3 ",
       "id": 3
     },
     {
-      "name": "Javascript",
+      "name": "JavaScript(ReactJS, AngularJs",
       "id": 4
     },
     {
-      "name": "Reactjs",
-      "id": 6
-    },
-    {
-      "name": "My SQL",
-      "id": 8
-    },
-    {
-      "name": "Node js",
+      "name": "NodeJs(MongoDB)",
       "id": 9
-    }
-    ,
+    } ,
     {
-      "name": "ExpressJS",
-      "id": 10
-    }
-    ,
-    {
-      "name": "MongoDB",
+      "name": "TypeScript",
       "id": 11
     }
   ],
