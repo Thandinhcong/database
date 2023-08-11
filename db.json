@@ -31,7 +31,7 @@
   ],
   "skills": [
     {
-      "name": "HTML5 & CS3 ",
+      "name": "HTML, CSS, Bootstrap ",
       "id": 3
     },
     {
@@ -55,7 +55,7 @@
       "image": [
         "https://res.cloudinary.com/dxzlnojyv/image/upload/v1683624972/ES6/t7njdxkoxryqcao6gi1m.jpg"
       ],
-      "description": "Sample project built in languages ​​like PHP,My SQL, JavaScript"
+      "description": "Technology used :HTML, CSS , Javascript, PHP(MySQL)"
     },
     {
       "id": 4,
@@ -64,11 +64,11 @@
       "image": [
         "https://res.cloudinary.com/dxzlnojyv/image/upload/v1679592322/ES6/atm1uc7xyql8e2tr4u9n.png"
       ],
-      "description": "The project is built by technology like: vanillajs, bootstrap5, html5,css3"
+      "description": "Technology used :HTML, CSS, Javascript, Bootstrap"
     },
     {
       "name": "Dự án 1 ",
-      "description": "Sample project built in languages ​​like PHP,My SQL, JavaScript,Bootstrap",
+      "description": "Technology used :HTML, CSS, Javascript, PHP(MySQL), Bootstrap",
       "link": "https://github.com/Thandinhcong/D-n-1",
       "image": [
         "https://res.cloudinary.com/dxzlnojyv/image/upload/v1683624972/ES6/t7njdxkoxryqcao6gi1m.jpg"
@@ -77,7 +77,7 @@
     },
     {
       "name": "React-TypeScript",
-      "description": "Project built by programming language react typescription ,HTML 5, css3,boostrap5,nodejs",
+      "description": "Technology used :HTML, CSS, Javascript, NodeJS(MongoDB), React-TypeScript, Bootstrap",
       "links": "https://github.com/Thandinhcong/Typescript-React",
       "image": [
         "https://res.cloudinary.com/dxzlnojyv/image/upload/v1683625576/ES6/mha4ewznblq3yqn7ch4r.avif"
